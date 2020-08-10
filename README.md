@@ -8,7 +8,7 @@ https://leetcode.com/problems/two-sum/
 
 If interested in my comments and approach, you can get to the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/08/11/sum-two/
 
 Thanks and enjoy;
 
